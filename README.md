@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/78vj5iulndvt00hc?svg=true)](https://ci.appveyor.com/project/arbprog/ra-components-func)
